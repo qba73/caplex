@@ -1,0 +1,5 @@
+HTTP = 80/tcp  # web traffic
+MAIL = 25/tcp  # smtp port
+       465/tcp # smtp over ssl
+DNS = 53/tcp
+      53/udp

@@ -1,0 +1,6 @@
+NYC_NETWORK = 200.1.1.0/24  # New York office
+ATL_NETWORK = 200.2.1.0/24  # Atlanta office
+DEN_NETWORK = 200.5.1.0/24  # Denver office
+REMOTE_OFFICES = NYC_NETWORK
+                 ATL_NETWORK
+                 DEN_NETWORK

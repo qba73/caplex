@@ -1,0 +1,5 @@
+LOOPBACK = 127.0.0.1/32  # loopback in IPv4
+           ::1/128       # loopback in IPv6
+LINKLOCAL = FE80::/10    # IPv6 link local address
+NYC_NETWORK = 172.16.1.0/24      # NYC IPv4
+              2620:0:10A1::/48   # NYC IPv6

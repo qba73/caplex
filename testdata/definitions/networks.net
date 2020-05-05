@@ -1,0 +1,6 @@
+INTERNAL = 10.0.0.0/8     # RFC1918
+           172.16.0.0/12  # RFC1918
+           192.168.0.0/16 # RFC1918
+WEBSERVERS = 200.3.2.1/32 # webserver-1
+             200.3.2.4/32 # webserver-2
+MAILSERVER = 200.3.2.5/32 # mailserver-1

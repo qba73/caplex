@@ -1,0 +1,6 @@
+HTTP = 80/tcp         # common web 
+HTTPS = 443/tcp       # SSL web 
+HTTP_8080 = 8080/tcp  #  web on non-standard port
+WEB_SERVICES = HTTP HTTP_8080 HTTPS  # all our web services
+DB_SERVICES = 3306/tcp  # allow db access
+              HTTPS     # and SSL access
